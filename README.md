@@ -1,4 +1,4 @@
-```markdown
+
 # NoSweat – Your Personal Fitness Accountability Partner  
 
 **NoSweat** is not just another fitness tracker. It's your **personal accountability partner** designed to help you actually **stick to your fitness goals**, not just log them. Built for those who want motivation, guidance, and structure — all in a minimalistic, intuitive app.  
@@ -90,4 +90,4 @@ We’re always looking to improve the experience. Feel free to submit PRs or iss
 ## License  
 
 MIT License © 2025 NoSweat
-```
+
